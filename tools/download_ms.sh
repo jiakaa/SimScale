@@ -38,7 +38,7 @@ done
 
 # 2. simulation data with recovery-based pseudo-expert
 rounds=5
-splits=(45,36,28,22,17)
+splits=(45 36 28 22 17)
 
 for round in $(seq 0 $((rounds - 1))); do
     # 1. meta data
