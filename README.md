@@ -23,7 +23,7 @@
 
 
 > [Haochen Tian](https://github.com/hctian713), 
-> [Tianyu Li](https://github.com/sephyli), 
+> [Tianyu Li](https://sephyli.github.io/), 
 > [Haochen Liu](https://georgeliu233.github.io/), 
 > [Jiazhi Yang](https://github.com/YTEP-ZHI), 
 > [Yihang Qiu](https://github.com/gihharwtw),
@@ -52,6 +52,7 @@
 
 
 ## 📢 News
+- **`[2025/2/21]`** 🎉 Accepted to CVPR 2026.
 - **`[2025/1/16]`** We released the data and models on 👾 ModelScope to better serve users in China.
 - **`[2026/1/6]`** We released the code **v1.0**.
 - **`[2025/12/31]`** We released the data and models **v1.0** on 🤗 Hugging Face. Happy New Year ! 🎄
